@@ -1,3 +1,4 @@
+<img width="512" height="512" alt="Azure" src="https://github.com/user-attachments/assets/26a39cd6-4c6b-43c9-bdf9-b1ef6d3e8b3c" />
 
 
 <h3 align="left">Connect with me:</h3>
